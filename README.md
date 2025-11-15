@@ -8,5 +8,5 @@ This project generates AI-based protein sequences conditioned on cancer type.
 - model/cancer_protein_generator.keras  
 
 ## How to run
-HuggingFace link: https://huggingface.co/spaces/shanthosh3/Protein_Sequence_generator_AI
+ Link: https://huggingface.co/spaces/shanthosh3/Protein_Sequence_generator_AI
 
